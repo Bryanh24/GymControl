@@ -1,0 +1,7 @@
+C:\Users\Bryan\Desktop\GymControl\Solucion\CapaDato\bin\Debug\CapaDato.dll
+C:\Users\Bryan\Desktop\GymControl\Solucion\CapaDato\bin\Debug\CapaDato.pdb
+C:\Users\Bryan\Desktop\GymControl\Solucion\CapaDato\bin\Debug\CapaEntidades.dll
+C:\Users\Bryan\Desktop\GymControl\Solucion\CapaDato\bin\Debug\CapaEntidades.pdb
+C:\Users\Bryan\Desktop\GymControl\Solucion\CapaDato\obj\Debug\CapaDato.csprojResolveAssemblyReference.cache
+C:\Users\Bryan\Desktop\GymControl\Solucion\CapaDato\obj\Debug\CapaDato.dll
+C:\Users\Bryan\Desktop\GymControl\Solucion\CapaDato\obj\Debug\CapaDato.pdb

@@ -1,0 +1,5 @@
+C:\Users\Bryan\Desktop\GymControl\Solucion\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\Bryan\Desktop\GymControl\Solucion\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\Bryan\Desktop\GymControl\Solucion\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+C:\Users\Bryan\Desktop\GymControl\Solucion\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\Bryan\Desktop\GymControl\Solucion\CapaEntidades\obj\Debug\CapaEntidades.pdb

@@ -1,0 +1,9 @@
+C:\Users\Bryan\Desktop\GymControl\Solucion\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\Bryan\Desktop\GymControl\Solucion\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\Bryan\Desktop\GymControl\Solucion\CapaNegocios\bin\Debug\CapaDato.dll
+C:\Users\Bryan\Desktop\GymControl\Solucion\CapaNegocios\bin\Debug\CapaEntidades.dll
+C:\Users\Bryan\Desktop\GymControl\Solucion\CapaNegocios\bin\Debug\CapaDato.pdb
+C:\Users\Bryan\Desktop\GymControl\Solucion\CapaNegocios\bin\Debug\CapaEntidades.pdb
+C:\Users\Bryan\Desktop\GymControl\Solucion\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+C:\Users\Bryan\Desktop\GymControl\Solucion\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\Bryan\Desktop\GymControl\Solucion\CapaNegocios\obj\Debug\CapaNegocios.pdb
